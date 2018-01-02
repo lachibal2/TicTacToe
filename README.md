@@ -9,7 +9,9 @@ two_player.py is the two player version. The indices for the matrix is:
    
     1  2  3
 1 [[0  0  0 ]
+
 2  [0  0  x ]
+
 3  [0  0  0 ]]
 
 the 'x' is located at 2, 3
@@ -19,7 +21,6 @@ vs_computer.py is the singleplayer against an easy AI version. The matrix indice
 wipe_data.py is a function that can be executed from the terminal to remove all of the computer's memory. If the clearing of data was successful, the program will print 'Cleared Data File'. Example:
 
 <code>$python wipe_data.py
-
 Cleared Data File
 </code>
 
