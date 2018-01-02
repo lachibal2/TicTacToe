@@ -6,7 +6,9 @@ This repository was made by Lachi Balabanski. It is a python implementation of t
 
 ## Use:
 two_player.py is the two player version. The indices for the matrix is:
+
 <code>
+
     1  2  3
 1 [[0  0  0 ]
 
