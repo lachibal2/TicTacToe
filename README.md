@@ -7,16 +7,14 @@ This repository was made by Lachi Balabanski. It is a python implementation of t
 ## Use:
 two_player.py is the two player version. The indices for the matrix is:
 
-<code>
 
-    1  2  3
-1 [[0  0  0 ]
+        1  2  3
+    1 [[0  0  0 ]
 
-2  [0  0  x ]
+    2  [0  0  x ]
 
-3  [0  0  0 ]]
+    3  [0  0  0 ]]
 
-</code>
 the 'x' is located at 2, 3
 
 vs_computer.py is the singleplayer against an easy AI version. The matrix indices are the same for the AI version as well as the two player version.
