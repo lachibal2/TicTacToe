@@ -2,7 +2,7 @@
 Tic Tac Toe game in Python\
 
 ## Information:
-This repository was made by Lachi Balabanski. It is a python implementation of the game, tic-tac-toe. To win: get 3 of the same symbol horizontally in a row, vertically in a row, or on the diagonals. The game uses matricies from numpy to store and display the current board. The computer uses dynamic programming and memoization, which is why 'data.txt' is included in the repository.
+This repository was made by Lachi Balabanski. It is a python implementation of the game, tic-tac-toe. To win: get 3 of the same symbol horizontally in a row, vertically in a row, or on the diagonals. The game uses matrices from numpy to store and display the current board. The computer uses dynamic programming and memoization, which is why 'data.txt' is included in the repository.
 
 ## Use:
 **two_player.py** is the two player version. The indices for the matrix is:
