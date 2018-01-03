@@ -23,6 +23,6 @@ If data.txt is not found in the current working directory, the program will rais
 
 **wipe_data.py** is a function that can be executed from the terminal to remove all of the computer's memory. If the clearing of data was successful, the program will print 'Cleared Data File'
 
-**data.txt** is a data file for the memoization part of the '_vs_computer.py_' version of the game. The current data in _data.txt_ is dummy data. Please clear the file so that it has nothing written in it, before you play the '_vs_computer_' version of the game. _Wipe_data.py_ was made for this purpose.
+**data.txt** is a data file for the memoization part of the '_vs_computer.py_' version of the game. The current data in _data.txt_ is dummy data. Please clear the file so that it has nothing written in it, before you play the '_vs_computer.py_' version of the game. _Wipe_data.py_ was made for this purpose.
 
 _Thank you for visiting this repo!_
